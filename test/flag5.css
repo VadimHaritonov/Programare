@@ -1,0 +1,11 @@
+body{background: white;
+}
+
+.red {background:red;
+    height: 300px;;
+}
+.white {background: rgb(255, 255, 255);
+    height: 300px;;}
+.rosu {background:red;
+        height: 300px;
+    }

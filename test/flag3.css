@@ -1,0 +1,10 @@
+body{background: white;
+}
+
+.white {background:white;
+    height: 300px;
+}
+.blue {background: blue;
+height: 300px;;}
+.red {background: red;
+height: 300px;}
